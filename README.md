@@ -11,5 +11,5 @@ Le site contient :
 J’ai utilisé HTML, CSS et JavaScript.  
 Les données sont dans le fichier data.js et les styles dans styles.css.
 
-Merci de tester le site en ouvrant le fichier index.html dans un navigateur.
-Pour la partie admin tester admin.html dans le navigateur.
+Merci de tester le site en ouvrant le fichier index.html dans un navigateur,
+pour la partie admin tester admin.html dans le navigateur.
